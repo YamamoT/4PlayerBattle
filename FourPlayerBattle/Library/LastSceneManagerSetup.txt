@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/YamamoT/Scene/TEST.unity
+  isLoaded: 1
+  isActive: 1
